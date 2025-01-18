@@ -1,0 +1,7 @@
+name: ChatPings
+main: Fadi\ChatPings\Main
+version: 1.0.0
+api: [5.0.0]
+author: FadiJalal
+
+description: A ChatPings plugin for PocketMine-MP

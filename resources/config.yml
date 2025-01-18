@@ -1,0 +1,9 @@
+# Configuration file for ChatPings plugin
+
+# Sound settings for player ping
+sound: "random.orb"
+volume: 1
+pitch: 1
+
+# For a list of all possible sound names, visit:
+# https://www.digminecraft.com/lists/sound_list_pe.php

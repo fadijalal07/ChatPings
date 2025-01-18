@@ -4,7 +4,7 @@ ChatPings is a Pocketmine-MP plugin that allows players to ping each other in ch
 
 ## Configuration
 
-After the first run, a configuration file will be generated in the `plugins/ChatPings` folder. You can customize the settings to your liking.
+After the first run, a configuration file will be generated in the `plugin_data/ChatPings` folder. You can customize the settings to your liking.
 
 ## Contributing
 

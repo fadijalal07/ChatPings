@@ -16,4 +16,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For support or inquiries, please open an issue on the [GitHub repository](https://github.com/yourusername/ChatPings/issues).
+For support or inquiries, please open an issue on the [GitHub repository](https://github.com/fadijalal07/ChatPings/issues).
